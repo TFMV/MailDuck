@@ -4,7 +4,7 @@ Extract Gmail messages into DuckDB for easy querying & analysis
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/marcboeker/gmail-to-sqlite.git`.
+1. Clone this repository: `git clone https://github.com/TFMV/MailDuck.git`.
 2. Install the requirements: `pip install -r requirements.txt`
 3. Create a Google Cloud project [here](https://console.cloud.google.com/projectcreate).
 4. Open [Gmail in API & Services](https://console.cloud.google.com/apis/library/gmail.googleapis.com) and activate the Gmail API.
